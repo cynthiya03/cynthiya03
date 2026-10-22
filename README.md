@@ -1,4 +1,4 @@
-![Cynthiya — Test Automation](banner.png)
+![Cynthiya — Test Automation](cynthiya-github-banner-lighter.jpg)
 <h1 align="center">Hi 👋, I'm Cynthiya</h1>
 
 <p align="center">
