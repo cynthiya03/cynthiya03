@@ -1,3 +1,4 @@
+![Cynthiya — Test Automation](banner.png)
 <h1 align="center">Hi 👋, I'm Cynthiya</h1>
 
 <p align="center">
