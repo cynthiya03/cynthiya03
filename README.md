@@ -17,7 +17,7 @@
 ## 🛠️ Tools & Technologies
 
 **Testing:** Playwright | selenium  
-**Language:** TypeScript | JavaScript | Java |Python
+**Language:** TypeScript | JavaScript | Java |Python 
 **Framework Design:** Page Object Model  
 **Reporting:** Allure and Playwright HTML Reports  
 **CI/CD:** GitHub Actions  
